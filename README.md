@@ -166,7 +166,7 @@
 ![다올_최종보고서(이미지) 075](https://user-images.githubusercontent.com/90733948/143153470-5fa629f2-486f-4937-b2ac-35f4b9fb9279.jpeg)
 
 - **자유게시판 게시글 등록**
-- 
+
 ![다올_최종보고서(이미지) 076](https://user-images.githubusercontent.com/90733948/143153472-4f2d4402-7050-42e5-90dd-81e47b846d06.jpeg)
 
 - **자유게시판 신고**
